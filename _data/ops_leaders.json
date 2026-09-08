@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-07",
+  "fetched": "2026-09-08",
   "min_pa": 50,
   "leaders": [
     {
@@ -16,21 +16,21 @@
     {
       "name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
-      "pa": 648,
-      "ops": ".944",
-      "avg": ".279",
-      "obp": ".374",
-      "slg": ".570",
-      "hr": 40,
+      "pa": 650,
+      "ops": ".953",
+      "avg": ".281",
+      "obp": ".376",
+      "slg": ".577",
+      "hr": 41,
       "url": "https://www.baseball-reference.com/players/c/crowape01.shtml"
     },
     {
       "name": "James Wood",
       "team": "Washington Nationals",
-      "pa": 554,
-      "ops": ".928",
+      "pa": 558,
+      "ops": ".927",
       "avg": ".268",
-      "obp": ".395",
+      "obp": ".394",
       "slg": ".533",
       "hr": 30,
       "url": "https://www.baseball-reference.com/players/w/woodja01.shtml"
@@ -38,11 +38,11 @@
     {
       "name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
-      "pa": 592,
-      "ops": ".906",
-      "avg": ".279",
-      "obp": ".381",
-      "slg": ".525",
+      "pa": 596,
+      "ops": ".902",
+      "avg": ".277",
+      "obp": ".380",
+      "slg": ".522",
       "hr": 30,
       "url": "https://www.baseball-reference.com/players/o/ohtansh01.shtml"
     },
@@ -71,10 +71,10 @@
     {
       "name": "Jake Bauers",
       "team": "Milwaukee Brewers",
-      "pa": 518,
-      "ops": ".889",
+      "pa": 519,
+      "ops": ".890",
       "avg": ".270",
-      "obp": ".396",
+      "obp": ".397",
       "slg": ".493",
       "hr": 24,
       "url": "https://www.baseball-reference.com/players/b/bauerja01.shtml"
@@ -113,6 +113,28 @@
       "url": "https://www.baseball-reference.com/players/r/ricebe01.shtml"
     },
     {
+      "name": "Rafael Devers",
+      "team": "San Francisco Giants",
+      "pa": 620,
+      "ops": ".864",
+      "avg": ".260",
+      "obp": ".342",
+      "slg": ".522",
+      "hr": 35,
+      "url": "https://www.baseball-reference.com/players/d/deverra01.shtml"
+    },
+    {
+      "name": "Elly De La Cruz",
+      "team": "Cincinnati Reds",
+      "pa": 560,
+      "ops": ".859",
+      "avg": ".281",
+      "obp": ".361",
+      "slg": ".498",
+      "hr": 24,
+      "url": "https://www.baseball-reference.com/players/c/cruzel01.shtml"
+    },
+    {
       "name": "Luis Garc\u00eda Jr.",
       "team": "New York Yankees",
       "pa": 486,
@@ -124,37 +146,15 @@
       "url": "https://www.baseball-reference.com/players/j/jrlu01.shtml"
     },
     {
-      "name": "Rafael Devers",
-      "team": "San Francisco Giants",
-      "pa": 615,
-      "ops": ".855",
-      "avg": ".258",
-      "obp": ".338",
-      "slg": ".517",
-      "hr": 35,
-      "url": "https://www.baseball-reference.com/players/d/deverra01.shtml"
-    },
-    {
       "name": "Pete Alonso",
       "team": "Baltimore Orioles",
-      "pa": 627,
+      "pa": 628,
       "ops": ".854",
-      "avg": ".267",
+      "avg": ".266",
       "obp": ".360",
       "slg": ".494",
       "hr": 33,
       "url": "https://www.baseball-reference.com/players/a/alonspe01.shtml"
-    },
-    {
-      "name": "Elly De La Cruz",
-      "team": "Cincinnati Reds",
-      "pa": 556,
-      "ops": ".852",
-      "avg": ".280",
-      "obp": ".360",
-      "slg": ".492",
-      "hr": 23,
-      "url": "https://www.baseball-reference.com/players/c/cruzel01.shtml"
     },
     {
       "name": "TJ Rumfield",
@@ -179,13 +179,24 @@
       "url": "https://www.baseball-reference.com/players/v/vargami01.shtml"
     },
     {
+      "name": "Gabriel Moreno",
+      "team": "Arizona Diamondbacks",
+      "pa": 478,
+      "ops": ".847",
+      "avg": ".301",
+      "obp": ".379",
+      "slg": ".468",
+      "hr": 12,
+      "url": "https://www.baseball-reference.com/players/m/morenga01.shtml"
+    },
+    {
       "name": "Seiya Suzuki",
       "team": "Chicago Cubs",
-      "pa": 562,
+      "pa": 564,
       "ops": ".847",
-      "avg": ".270",
-      "obp": ".368",
-      "slg": ".479",
+      "avg": ".269",
+      "obp": ".369",
+      "slg": ".478",
       "hr": 24,
       "url": "https://www.baseball-reference.com/players/s/suzukse01.shtml"
     },
@@ -201,26 +212,15 @@
       "url": "https://www.baseball-reference.com/players/g/goodmhu01.shtml"
     },
     {
-      "name": "CJ Abrams",
-      "team": "Washington Nationals",
-      "pa": 588,
-      "ops": ".842",
-      "avg": ".264",
-      "obp": ".342",
-      "slg": ".500",
-      "hr": 30,
-      "url": "https://www.baseball-reference.com/players/a/abramcj01.shtml"
-    },
-    {
-      "name": "Gabriel Moreno",
-      "team": "Arizona Diamondbacks",
-      "pa": 476,
-      "ops": ".842",
-      "avg": ".298",
-      "obp": ".376",
-      "slg": ".466",
-      "hr": 12,
-      "url": "https://www.baseball-reference.com/players/m/morenga01.shtml"
+      "name": "Riley Greene",
+      "team": "Detroit Tigers",
+      "pa": 519,
+      "ops": ".843",
+      "avg": ".279",
+      "obp": ".368",
+      "slg": ".475",
+      "hr": 19,
+      "url": "https://www.baseball-reference.com/players/g/greenri01.shtml"
     },
     {
       "name": "Yandy D\u00edaz",
@@ -234,15 +234,26 @@
       "url": "https://www.baseball-reference.com/players/d/dazya01.shtml"
     },
     {
-      "name": "Freddie Freeman",
+      "name": "Max Muncy",
       "team": "Los Angeles Dodgers",
+      "pa": 494,
+      "ops": ".839",
+      "avg": ".251",
+      "obp": ".350",
+      "slg": ".489",
+      "hr": 26,
+      "url": "https://www.baseball-reference.com/players/m/muncyma01.shtml"
+    },
+    {
+      "name": "CJ Abrams",
+      "team": "Washington Nationals",
       "pa": 592,
-      "ops": ".837",
-      "avg": ".301",
-      "obp": ".378",
-      "slg": ".459",
-      "hr": 16,
-      "url": "https://www.baseball-reference.com/players/f/freemfr01.shtml"
+      "ops": ".836",
+      "avg": ".262",
+      "obp": ".340",
+      "slg": ".496",
+      "hr": 30,
+      "url": "https://www.baseball-reference.com/players/a/abramcj01.shtml"
     },
     {
       "name": "Randy Arozarena",
@@ -256,37 +267,26 @@
       "url": "https://www.baseball-reference.com/players/a/arozara01.shtml"
     },
     {
-      "name": "Max Muncy",
+      "name": "Freddie Freeman",
       "team": "Los Angeles Dodgers",
-      "pa": 490,
-      "ops": ".834",
-      "avg": ".249",
-      "obp": ".347",
-      "slg": ".487",
-      "hr": 26,
-      "url": "https://www.baseball-reference.com/players/m/muncyma01.shtml"
+      "pa": 596,
+      "ops": ".835",
+      "avg": ".299",
+      "obp": ".378",
+      "slg": ".457",
+      "hr": 16,
+      "url": "https://www.baseball-reference.com/players/f/freemfr01.shtml"
     },
     {
       "name": "Jordan Walker",
       "team": "St. Louis Cardinals",
-      "pa": 601,
+      "pa": 606,
       "ops": ".834",
       "avg": ".284",
-      "obp": ".339",
-      "slg": ".495",
+      "obp": ".340",
+      "slg": ".494",
       "hr": 28,
       "url": "https://www.baseball-reference.com/players/w/walkejo01.shtml"
-    },
-    {
-      "name": "Riley Greene",
-      "team": "Detroit Tigers",
-      "pa": 516,
-      "ops": ".833",
-      "avg": ".276",
-      "obp": ".366",
-      "slg": ".467",
-      "hr": 18,
-      "url": "https://www.baseball-reference.com/players/g/greenri01.shtml"
     },
     {
       "name": "Matt Olson",
@@ -346,11 +346,11 @@
     {
       "name": "Sal Stewart",
       "team": "Cincinnati Reds",
-      "pa": 621,
-      "ops": ".821",
-      "avg": ".268",
+      "pa": 625,
+      "ops": ".818",
+      "avg": ".266",
       "obp": ".338",
-      "slg": ".483",
+      "slg": ".480",
       "hr": 31,
       "url": "https://www.baseball-reference.com/players/s/stewasa01.shtml"
     },
@@ -366,15 +366,37 @@
       "url": "https://www.baseball-reference.com/players/i/iimi01.shtml"
     },
     {
+      "name": "Alec Burleson",
+      "team": "St. Louis Cardinals",
+      "pa": 610,
+      "ops": ".811",
+      "avg": ".283",
+      "obp": ".344",
+      "slg": ".467",
+      "hr": 22,
+      "url": "https://www.baseball-reference.com/players/b/burleal01.shtml"
+    },
+    {
       "name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
-      "pa": 556,
-      "ops": ".812",
+      "pa": 558,
+      "ops": ".811",
       "avg": ".283",
       "obp": ".360",
-      "slg": ".452",
+      "slg": ".451",
       "hr": 17,
       "url": "https://www.baseball-reference.com/players/j/jrbo01.shtml"
+    },
+    {
+      "name": "Jackson Chourio",
+      "team": "Milwaukee Brewers",
+      "pa": 499,
+      "ops": ".810",
+      "avg": ".281",
+      "obp": ".339",
+      "slg": ".471",
+      "hr": 21,
+      "url": "https://www.baseball-reference.com/players/c/chourja01.shtml"
     },
     {
       "name": "Tyler Soderstrom",
@@ -386,17 +408,6 @@
       "slg": ".472",
       "hr": 19,
       "url": "https://www.baseball-reference.com/players/s/soderty01.shtml"
-    },
-    {
-      "name": "Alec Burleson",
-      "team": "St. Louis Cardinals",
-      "pa": 605,
-      "ops": ".809",
-      "avg": ".283",
-      "obp": ".345",
-      "slg": ".464",
-      "hr": 21,
-      "url": "https://www.baseball-reference.com/players/b/burleal01.shtml"
     },
     {
       "name": "Liam Hicks",
@@ -412,24 +423,13 @@
     {
       "name": "Kyle Stowers",
       "team": "Miami Marlins",
-      "pa": 450,
-      "ops": ".809",
-      "avg": ".247",
+      "pa": 451,
+      "ops": ".808",
+      "avg": ".246",
       "obp": ".336",
-      "slg": ".473",
+      "slg": ".472",
       "hr": 19,
       "url": "https://www.baseball-reference.com/players/s/stoweky01.shtml"
-    },
-    {
-      "name": "Jackson Chourio",
-      "team": "Milwaukee Brewers",
-      "pa": 498,
-      "ops": ".807",
-      "avg": ".279",
-      "obp": ".337",
-      "slg": ".470",
-      "hr": 21,
-      "url": "https://www.baseball-reference.com/players/c/chourja01.shtml"
     },
     {
       "name": "Dominic Canzone",
@@ -441,17 +441,6 @@
       "slg": ".477",
       "hr": 21,
       "url": "https://www.baseball-reference.com/players/c/canzodo01.shtml"
-    },
-    {
-      "name": "Corbin Carroll",
-      "team": "Arizona Diamondbacks",
-      "pa": 606,
-      "ops": ".803",
-      "avg": ".240",
-      "obp": ".335",
-      "slg": ".468",
-      "hr": 19,
-      "url": "https://www.baseball-reference.com/players/c/carroco01.shtml"
     },
     {
       "name": "Brandon Lowe",
@@ -487,13 +476,35 @@
       "url": "https://www.baseball-reference.com/players/r/reynobr01.shtml"
     },
     {
+      "name": "Corbin Carroll",
+      "team": "Arizona Diamondbacks",
+      "pa": 608,
+      "ops": ".800",
+      "avg": ".240",
+      "obp": ".334",
+      "slg": ".466",
+      "hr": 19,
+      "url": "https://www.baseball-reference.com/players/c/carroco01.shtml"
+    },
+    {
+      "name": "Fernando Tatis Jr.",
+      "team": "San Diego Padres",
+      "pa": 625,
+      "ops": ".799",
+      "avg": ".283",
+      "obp": ".349",
+      "slg": ".450",
+      "hr": 20,
+      "url": "https://www.baseball-reference.com/players/j/jrfe01.shtml"
+    },
+    {
       "name": "Mike Trout",
       "team": "Los Angeles Angels",
-      "pa": 556,
-      "ops": ".801",
-      "avg": ".244",
-      "obp": ".377",
-      "slg": ".424",
+      "pa": 557,
+      "ops": ".799",
+      "avg": ".243",
+      "obp": ".376",
+      "slg": ".423",
       "hr": 20,
       "url": "https://www.baseball-reference.com/players/t/troutmi01.shtml"
     },
@@ -520,17 +531,6 @@
       "url": "https://www.baseball-reference.com/players/a/abreuwi01.shtml"
     },
     {
-      "name": "Fernando Tatis Jr.",
-      "team": "San Diego Padres",
-      "pa": 621,
-      "ops": ".795",
-      "avg": ".280",
-      "obp": ".347",
-      "slg": ".448",
-      "hr": 20,
-      "url": "https://www.baseball-reference.com/players/j/jrfe01.shtml"
-    },
-    {
       "name": "Ezequiel Duran",
       "team": "Texas Rangers",
       "pa": 524,
@@ -555,35 +555,24 @@
     {
       "name": "Alex Bregman",
       "team": "Chicago Cubs",
-      "pa": 647,
-      "ops": ".791",
-      "avg": ".260",
-      "obp": ".349",
-      "slg": ".442",
+      "pa": 648,
+      "ops": ".793",
+      "avg": ".262",
+      "obp": ".350",
+      "slg": ".443",
       "hr": 24,
       "url": "https://www.baseball-reference.com/players/b/bregmal01.shtml"
     },
     {
       "name": "Kevin McGonigle",
       "team": "Detroit Tigers",
-      "pa": 623,
-      "ops": ".789",
-      "avg": ".273",
-      "obp": ".374",
-      "slg": ".415",
+      "pa": 626,
+      "ops": ".785",
+      "avg": ".271",
+      "obp": ".372",
+      "slg": ".413",
       "hr": 15,
       "url": "https://www.baseball-reference.com/players/m/mcgonke01.shtml"
-    },
-    {
-      "name": "Otto Lopez",
-      "team": "Miami Marlins",
-      "pa": 611,
-      "ops": ".778",
-      "avg": ".302",
-      "obp": ".339",
-      "slg": ".439",
-      "hr": 10,
-      "url": "https://www.baseball-reference.com/players/l/lopezot01.shtml"
     },
     {
       "name": "Isaac Paredes",
@@ -608,23 +597,34 @@
       "url": "https://www.baseball-reference.com/players/a/arraelu01.shtml"
     },
     {
+      "name": "Otto Lopez",
+      "team": "Miami Marlins",
+      "pa": 612,
+      "ops": ".776",
+      "avg": ".301",
+      "obp": ".338",
+      "slg": ".438",
+      "hr": 10,
+      "url": "https://www.baseball-reference.com/players/l/lopezot01.shtml"
+    },
+    {
       "name": "Brice Turang",
       "team": "Milwaukee Brewers",
-      "pa": 606,
+      "pa": 608,
       "ops": ".775",
       "avg": ".255",
-      "obp": ".351",
-      "slg": ".424",
+      "obp": ".352",
+      "slg": ".423",
       "hr": 17,
       "url": "https://www.baseball-reference.com/players/t/turanbr01.shtml"
     },
     {
       "name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
-      "pa": 466,
-      "ops": ".771",
+      "pa": 467,
+      "ops": ".772",
       "avg": ".264",
-      "obp": ".355",
+      "obp": ".356",
       "slg": ".416",
       "hr": 9,
       "url": "https://www.baseball-reference.com/players/m/mitchga01.shtml"
@@ -632,35 +632,35 @@
     {
       "name": "Dillon Dingler",
       "team": "Detroit Tigers",
-      "pa": 556,
-      "ops": ".768",
-      "avg": ".247",
-      "obp": ".309",
-      "slg": ".459",
+      "pa": 559,
+      "ops": ".764",
+      "avg": ".245",
+      "obp": ".307",
+      "slg": ".457",
       "hr": 26,
       "url": "https://www.baseball-reference.com/players/d/dingldi01.shtml"
     },
     {
-      "name": "Nick Gonzales",
-      "team": "Pittsburgh Pirates",
-      "pa": 556,
-      "ops": ".762",
-      "avg": ".306",
-      "obp": ".369",
-      "slg": ".393",
-      "hr": 6,
-      "url": "https://www.baseball-reference.com/players/g/gonzani01.shtml"
+      "name": "Ketel Marte",
+      "team": "Arizona Diamondbacks",
+      "pa": 545,
+      "ops": ".763",
+      "avg": ".251",
+      "obp": ".317",
+      "slg": ".446",
+      "hr": 22,
+      "url": "https://www.baseball-reference.com/players/m/marteke01.shtml"
     },
     {
-      "name": "Sam Antonacci",
-      "team": "Chicago White Sox",
-      "pa": 493,
-      "ops": ".760",
-      "avg": ".268",
-      "obp": ".367",
-      "slg": ".393",
-      "hr": 8,
-      "url": "https://www.baseball-reference.com/players/a/antonsa01.shtml"
+      "name": "Kody Clemens",
+      "team": "Minnesota Twins",
+      "pa": 514,
+      "ops": ".762",
+      "avg": ".238",
+      "obp": ".299",
+      "slg": ".463",
+      "hr": 24,
+      "url": "https://www.baseball-reference.com/players/c/clemeko01.shtml"
     }
   ]
 }
